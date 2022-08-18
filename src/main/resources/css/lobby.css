@@ -1,0 +1,9 @@
+.mainButton{
+    -fx-background-color: #aad9e0;
+    -fx-cursor: hand;
+    -fx-background-radius: 30;
+}
+
+.mainButton:hover{
+    -fx-background-color: lightskyblue;
+}
